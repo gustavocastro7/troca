@@ -5,4 +5,4 @@ Repositório para armezanas resumos sobre Git e GitHub do curso de versionamento
 
 # Novas Infos
 
-Base
+Base 2
