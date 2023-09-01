@@ -6,3 +6,5 @@ Repositório para armezanas resumos sobre Git e GitHub do curso de versionamento
 # Novas Infos
 
 Base 2
+
+Força merge local
